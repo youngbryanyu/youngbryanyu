@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Young<br>
+        I'm Young.<br>
         I seek to develop innovative, robust, and scalable software programs to solve challenging yet impactful problems in the real-world.<br>
         I am always excited to work on projects that involve new or cutting-edge technologies!<br>
     </i><br>
