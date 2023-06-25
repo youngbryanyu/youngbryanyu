@@ -13,9 +13,6 @@
     <a href="mailto:youngyu19@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://leetcode.com/youngyu19">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
 </p>	
 
 ### Technologies
