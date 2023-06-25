@@ -25,7 +25,6 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yyu2002)
 [![Elasticsearch](https://img.shields.io/badge/Elastic_Search-black?style=for-the-badge&logo=elasticsearch)](https://github.com/yyu2002)
 [![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express.js)](https://github.com/yyu2002)
-
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/yyu2002)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/yyu2002)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/yyu2002)
