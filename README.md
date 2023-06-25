@@ -19,7 +19,9 @@
 </p>	
 
 ### Technologies
-[![AWS]([https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white))](https://github.com/yyu2002)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)](https://github.com/yyu2002)
+
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/yyu2002)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/yyu2002)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yyu2002)
