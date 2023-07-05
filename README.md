@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="42px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30vh" alt="👋"></h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
