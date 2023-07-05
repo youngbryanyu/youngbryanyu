@@ -7,8 +7,8 @@
 <p align="center">
     <i>
         I'm Young.<br>
-        I seek to develop innovative, robust, and scalable software programs to solve challenging yet impactful problems in the real-world.<br>
-        I am always excited to work on projects that involve new or cutting-edge technologies!<br>
+        I love to develop innovative, robust, and scalable software solutions to tackle complex and impactful real-world challenges.<br>
+        As a motivated-to-learn individual, I continuously pursue opportunities to expand my skill set and stay at the forefront of industry trends.<br>
     </i>
     <h3 align="center">Connect with me:</h3>
   <div align="center">
