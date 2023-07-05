@@ -13,7 +13,7 @@
     <h3 align="center">Connect with me:</h3>
   <div align="center">
     <a href="https://www.linkedin.com/in/youngyu19">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" width="100px" alt="LinkedIn">
     </a>
     <a href="mailto:youngyu19@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
