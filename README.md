@@ -9,14 +9,16 @@
         I'm Young.<br>
         I seek to develop innovative, robust, and scalable software programs to solve challenging yet impactful problems in the real-world.<br>
         I am always excited to work on projects that involve new or cutting-edge technologies!<br>
-    </i><br>
+    </i>
     <h3 align="center">Connect with me:</h3>
+  <div align="center">
     <a href="https://www.linkedin.com/in/youngyu19">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:youngyu19@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+  </div>
 </p>	
 
 ### Technologies
