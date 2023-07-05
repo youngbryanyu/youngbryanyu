@@ -43,3 +43,7 @@
 [![React.js](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/yyu2002)
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)](https://github.com/yyu2002)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/yyu2002)
+
+<p align="center">
+  <img src="https://github.com/yyu2002/yyu2002/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
