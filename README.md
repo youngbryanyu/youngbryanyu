@@ -12,7 +12,7 @@
     </i>
     <h3 align="center">Connect with me:</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/youngyu19">
+    <a href="https://www.linkedin.com/in/youngbryanyu">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" height="30vh" alt="LinkedIn">
     </a>
     <a href="mailto:youngyu19@gmail.com">
