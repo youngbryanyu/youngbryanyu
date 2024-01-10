@@ -7,8 +7,8 @@
 <p align="center">
     <i>
         I'm Young.<br>
-        I love to develop innovative, robust, and scalable software solutions to tackle complex and impactful real-world challenges.<br>
-        As a motivated-to-learn individual, I continuously pursue opportunities to expand my skill set and stay at the forefront of industry trends.<br>
+        I love to develop innovative and robust software to tackle complex and impactful real-world challenges (or for my personal enjoyment).<br>
+        I am someone who loves to learn and grow, and I continuously pursue opportunities learn new subjects or pick up something new!<br>
     </i>
     <h3 align="center">Connect with me:</h3>
   <div align="center">
@@ -21,8 +21,9 @@
   </div>
 </p>	
 
+ <!-- 
 ### Technologies
-[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/yyu2002)
+ [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)](https://github.com/yyu2002)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/yyu2002)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/yyu2002)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/yyu2002)
@@ -44,6 +45,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite)](https://github.com/yyu2002)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/yyu2002)
 
+
 <p align="center">
   <img src="https://github.com/yyu2002/yyu2002/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+-->
