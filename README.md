@@ -7,7 +7,7 @@
 <p align="center">
     <i>
         I'm Young.<br>
-        I love to develop innovative and robust software to tackle complex and impactful real-world challenges (or for my personal enjoyment).<br>
+        I love developing innovative and robust software to tackle impactful real-world challenges (or for my personal enjoyment).<br>
         I am someone who loves to learn and grow, and I continuously pursue opportunities learn new subjects or pick up something new!<br>
     </i>
     <h3 align="center">Connect with me:</h3>
