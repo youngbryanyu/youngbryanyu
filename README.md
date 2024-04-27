@@ -8,7 +8,7 @@
     <i>
         I'm Young.<br>
         I love to learn and strive to make impact an through technology.<br>
-        I graduated with a BS in computer science from Purdue university and have worked at Amazon building services for Alexa devices. .<br>
+        I graduated with a BS in computer science from Purdue university and have worked at Amazon building services for Alexa devices.<br>
         My interests are mainly in distributed systems, databases, and backend development.<br>
     </i>
     <h3 align="center">Connect with me:</h3>
